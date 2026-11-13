@@ -1,0 +1,2 @@
+{"name":"مهامي","short_name":"مهامي","description":"تطبيق ذكي لتنظيم المهام وتحفيز المستخدم على الإنجاز","lang":"ar","dir":"rtl","start_url":"./index.html","scope":"./","display":"standalone","orientation":"portrait","background_color":"#FAF6EE","theme_color":"#4F6F52",
+"icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},{"src":"icons/maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}
